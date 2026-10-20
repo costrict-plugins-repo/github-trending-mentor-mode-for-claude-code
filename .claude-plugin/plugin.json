@@ -1,0 +1,9 @@
+{
+  "name": "mentor-mode",
+  "version": "0.1.0",
+  "description": "Turns Claude into a coding mentor who guides through hints, questions, and code review — never providing solutions. The learner writes all the code.",
+  "author": {
+    "name": "Fabrizio Ferri Benedetti",
+    "email": "fabrizio@passo.uno"
+  }
+}
